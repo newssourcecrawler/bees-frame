@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = [
+  "nsc_frame",
+  "examples/hello_stepper",
+]

@@ -1,0 +1,12 @@
+[package]
+name = "nsc_frame"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Deterministic frame-based execution law: one-step semantic runtime contract"
+readme = "README.md"
+keywords = ["runtime", "deterministic", "frame", "execution", "scheduler"]
+categories = ["concurrency", "development-tools"]
+rust-version = "1.74"
+
+[dependencies]

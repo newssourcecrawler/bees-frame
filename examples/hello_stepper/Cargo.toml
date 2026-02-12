@@ -1,0 +1,7 @@
+[package]
+name = "hello_stepper"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nsc_frame = { path = "../../nsc_frame" }
